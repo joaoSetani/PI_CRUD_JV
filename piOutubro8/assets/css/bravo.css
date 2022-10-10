@@ -1,0 +1,19 @@
+
+.card-body .textos {
+    text-align: left;
+    font-size: 1.5em;
+}
+
+.adicionar {
+    margin: 1em 0 !important;
+}
+
+.link {
+    text-decoration: none;
+    margin-right: 2em;
+}
+
+.link:hover {
+    text-decoration: none;
+    color: blue;    
+}
